@@ -35,7 +35,7 @@ plot(out_DIF_rat_0.5 [, "time"]*24, out_DIF_rat_0.5 [,"Cplasma"],
 
 max(out_DIF_rat_0.5[, "Cplasma"])
 
-my.data_0.5 <- data.frame(read_excel("I:/Yemu/PK/R_DIF_PPP model/R_scripts/DIF_0.5mg.xlsx"))
+my.data_0.5 <- data.frame(read_excel("I:/.xlsx"))
 
 
 points(my.data_0.5[, "Time"], my.data_0.5[, "Plasma.Concentration"],
