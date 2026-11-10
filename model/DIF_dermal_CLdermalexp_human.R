@@ -67,7 +67,6 @@ parms_human_dermal_1compt_dif$pKa_Accept = parms_human_Kp_0.5_dermal$pKa_Accept 
 parms_human_dermal_1compt_dif$Funbound.plasma = parms_human_Kp_0.5_dermal$Funbound.plasma #default httk
 parms_human_dermal_1compt_dif$totalSA = 16600 #EFSA Guidance document
 
-#parms_human_dermal_1compt_dif$P = 2.08e-08 #rat vs human dermal absorption differences for 1:32 highest concentrations (DIFENOCONAZOLE 201–272 JMPR 2007)
 
 
 
